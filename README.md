@@ -35,7 +35,9 @@
   </a>
   
 </p>
+
 ## 𝙵𝚛𝚊𝚖𝚠𝚘𝚛𝚔𝚜
+
 <p align="left"> 
    &emsp;<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
    &emsp;<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
@@ -48,9 +50,9 @@
 
 ## 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 && 𝚂𝚔𝚒𝚕𝚕𝚜
 
-![HTML](https://img.shields.io/badge/-HTML-gray?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-gray?style=flat&logo=css&logoColor=1572B6)  ![JSON](https://img.shields.io/badge/-JSON-gray?style=flat&logo=json&logoColor=000000)  ![Node.js](https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js&logoColor=339933)  ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-gray?style=flat&logo=markdown)  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=flat&logo=visual-studio-code&logoColor=007ACC)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
- ![Windows](https://img.shields.io/badge/Windows-blue?style=flat)  ![Linux](https://img.shields.io/badge/Linux-red?style=flat&logo=linux&logoColor=white)  ![Linux](https://img.shields.io/badge/MacOS-black?style=flat&logo=apple&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-gray?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-gray?style=flat&logo=css&logoColor=1572B6)  ![JSON](https://img.shields.io/badge/-JSON-gray?style=flat&logo=json&logoColor=000000)  ![Node.js](https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js&logoColor=339933)  ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-gray?style=flat&logo=markdown)  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=flat&logo=visual-studio-code&logoColor=007ACC)  <br>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)<br>
+ ![Windows](https://img.shields.io/badge/Windows-blue?style=flat)  ![Linux](https://img.shields.io/badge/Linux-red?style=flat&logo=linux&logoColor=white)  ![MacOS](https://img.shields.io/badge/MacOS-black?style=flat&logo=apple&logoColor=white)<br>
  ![Cisco](https://img.shields.io/badge/network_config-Cisco-blue?style=flat&logo=cisco&logoColor=white)
 
 
