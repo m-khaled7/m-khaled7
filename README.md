@@ -6,10 +6,19 @@
   <img src="https://img.shields.io/badge/Web-FullStack-8A2BE2"  />
   <img src="https://img.shields.io/badge/offensive_Security-DC143C"  />
   <img src="https://img.shields.io/badge/CTF-Player-347928"  />
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=m-khaled7.m-khaled7&"  />
 </div>
 <br>
 <br>
+<br>
+<pre>
+📝 I have a strong interest in offensive cyber security
+🚩 Interested in web apps development useing [React, NextJS, Angular, Express, SpringBoot, MongoDB, SQL]
+🌱 Love Learning  new Technologies and exploring
+🌟 Main languages: Python, JavaScript, Java
+🤔 I’m currently Learnig eWAPT and OSCP+
+🌟 sharping my skills with paly HTM & HTB CTFs 
+</pre>
 <br>
 
 
