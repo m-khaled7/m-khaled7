@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/CTF-Player-347928"  />
   
 </div>
-
+<br>
+<br>
+<br>
 
 
 ## 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙸 𝚞𝚜𝚎
@@ -35,6 +37,9 @@
   </a>
   
 </p>
+<br>
+<br>
+
 
 ## 𝙵𝚛𝚊𝚖𝚠𝚘𝚛𝚔𝚜
 
@@ -47,6 +52,8 @@
    &emsp;<img alt="DJango" src="https://img.shields.io/badge/Django-REST_FW-darkgreen?style=flat&logo=django&logoColor=092E20">
   &emsp;<img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white">
 </p>
+<br>
+<br>
 
 ## 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 && 𝚂𝚔𝚒𝚕𝚕𝚜
 
@@ -55,6 +62,9 @@
  ![Windows](https://img.shields.io/badge/Windows-blue?style=flat)  ![Linux](https://img.shields.io/badge/Linux-red?style=flat&logo=linux&logoColor=white)  ![MacOS](https://img.shields.io/badge/MacOS-black?style=flat&logo=apple&logoColor=white)<br>
  ![Cisco](https://img.shields.io/badge/network_config-Cisco-blue?style=flat&logo=cisco&logoColor=white)
 
+ <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
 
 
 
