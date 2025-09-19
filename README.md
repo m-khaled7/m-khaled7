@@ -17,7 +17,7 @@
 🌱 Love Learning  new Technologies and exploring
 🌟 Main languages: Python, JavaScript, Java
 🤔 I’m currently Learnig eWAPT and OSCP+
-🌟 sharping my skills with paly HTM & HTB CTFs 
+🌟 sharping my skills with paly THM & HTB CTFs 
 </pre>
 <br>
 
