@@ -54,6 +54,8 @@
 
 <p align="left"> 
    &emsp;<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
+   &emsp;<img alt="Static Badge" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white">
+   &emsp;<img alt="Static Badge" src="https://img.shields.io/badge/NextJS-blue?logo=nextdotjs&logoColor=white">
    &emsp;<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
    &emsp;<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-3396D3?logo=tailwindcss&logoColor=white">
    &emsp;<img alt="express" src="https://img.shields.io/badge/ExpressJS-black?logo=express">
@@ -69,7 +71,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-gray?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-gray?style=flat&logo=css&logoColor=1572B6)  ![JSON](https://img.shields.io/badge/-JSON-gray?style=flat&logo=json&logoColor=000000)  ![Node.js](https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js&logoColor=339933)  ![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-gray?style=flat&logo=markdown)  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=flat&logo=visual-studio-code&logoColor=007ACC)  <br>
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)<br>
  ![Windows](https://img.shields.io/badge/Windows-blue?style=flat)  ![Linux](https://img.shields.io/badge/Linux-red?style=flat&logo=linux&logoColor=white)  ![MacOS](https://img.shields.io/badge/MacOS-black?style=flat&logo=apple&logoColor=white)<br>
- ![Cisco](https://img.shields.io/badge/network_config-Cisco-blue?style=flat&logo=cisco&logoColor=white)
+ ![Cisco](https://img.shields.io/badge/network_config-Cisco-blue?style=flat&logo=cisco&logoColor=white)<br>
+ ![Static Badge](https://img.shields.io/badge/VMWare-Virtualization-blue?logo=vmware&logoColor=white)  ![Static Badge](https://img.shields.io/badge/VMWare-Virtual_network-blue?logo=vmware&logoColor=white)  ![Static Badge](https://img.shields.io/badge/VMWare-vSAN-blue?logo=vmware&logoColor=white)
+
+
 
  <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
