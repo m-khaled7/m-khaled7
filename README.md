@@ -1,7 +1,7 @@
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /><br>
-  <img  src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=30&duration=3000&pause=700&color=00CA4F&&center=true&width=435&lines=Hi%2C+I'm+Mohamed+Khaled;Penetration+Tester;Also+Web+Developer"  /><br>
+  <img  src="https://readme-typing-svg.herokuapp.com?font=Fire+Code&size=30&duration=3000&pause=700&color=00CA4F&&center=true&width=435&lines=Hi%2C+I'm+Mohamed+Khaled;MERN+Stack+Developer;Also+Penetration+Tester"  /><br>
   <img src="https://img.shields.io/badge/penetration_teater-red"  />
   <img src="https://img.shields.io/badge/Web-FullStack-8A2BE2"  />
   <img src="https://img.shields.io/badge/offensive_Security-DC143C"  />
@@ -13,11 +13,9 @@
 <br>
 <pre>
 📝 I have a strong interest in offensive cyber security
-🚩 Interested in web apps development useing [React, NextJS, Angular, Express, SpringBoot, MongoDB, SQL]
+🚩 Interested in web apps development useing [React, NextJS, Express, SpringBoot, MongoDB, SQL]
 🌱 Love Learning  new Technologies and exploring
-🌟 Main languages: Python, JavaScript, Java
-🤔 I’m currently Learnig eWAPT and OSCP+
-🌟 sharping my skills with paly THM & HTB CTFs 
+🌟 Main languages: Python, JavaScript, Typescript, Java
 </pre>
 <br>
 
@@ -37,6 +35,10 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="typescript" src="https://img.shields.io/badge/Typescript-3178C6?logo=tsnode&logoColor=white">
+   </a>
+  &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
@@ -53,10 +55,8 @@
 ## 𝙵𝚛𝚊𝚖𝚠𝚘𝚛𝚔𝚜
 
 <p align="left"> 
-   &emsp;<img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
    &emsp;<img alt="Static Badge" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white">
-   &emsp;<img alt="Static Badge" src="https://img.shields.io/badge/NextJS-blue?logo=nextdotjs&logoColor=white">
-   &emsp;<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+   &emsp;<img alt="Static Badge" src="https://img.shields.io/badge/NextJS-black?logo=nextdotjs&logoColor=white">
    &emsp;<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-3396D3?logo=tailwindcss&logoColor=white">
    &emsp;<img alt="express" src="https://img.shields.io/badge/ExpressJS-black?logo=express">
    &emsp;<img alt="Flask" src="https://img.shields.io/badge/Flask-RESTFul-blue?style=flat&logo=flask">
